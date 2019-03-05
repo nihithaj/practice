@@ -1,0 +1,7 @@
+virsh list --all
+virsh list --autostart 
+
+virsh start host
+
+
+
